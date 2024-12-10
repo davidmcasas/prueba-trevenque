@@ -8,6 +8,10 @@ La aplicación se encuentra desplegada en: https://prueba-trevenque.davidmcasas.
 Nota: En el historial de GIT se puede ver los commit del ejercicio, para saber rápidamente qué archivos pertenecen
 de base a Laravel, y qué archivos o cambios pertenecen al desarrollo del ejercicio.
 
+## Desarrollo de la prueba
+
+# 
+
 ## Pasos para desplegar en otro sistema:
 
 ### 1. Clonar el repositorio al servidor donde se vaya a probar e instalar dependencias.
