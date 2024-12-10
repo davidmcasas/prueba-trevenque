@@ -27,8 +27,7 @@ Controlador de Productos: [ProductController.php](app/Http/Controllers/ProductCo
 Por ejemplo, la ruta GET devuelve todos los productos: https://prueba-trevenque.davidmcasas.com/api/products
 
 ### 1.3. Git
-He incluido este readme. No he utilizado ramas adicionales ya que el ejercicio es demasiado simple y no es necesario para el desarrollo.
-En mis otros repositorios disponibles se puede ver el uso de ramas en casos reales.
+He incluido este readme. He creado una rama aparte "task_readme" que solo actualiza este apartado del readme. A modo de demostración del uso de ramas y pull requests.
 
 ### 2.1 Frontend
 
